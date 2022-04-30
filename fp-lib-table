@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "EG25G")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/EG25G")(options "")(descr ""))
+  (lib (name "SIM8060-6-1-14-00-A")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/SIM8060-6-1-14-00-A")(options "")(descr ""))
+  (lib (name "KMR221GLFS")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/KMR221GLFS")(options "")(descr ""))
+)
