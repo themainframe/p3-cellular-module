@@ -123,9 +123,6 @@
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/08139e68-382f-42d5-b765-d70bcb10465b"
       (reference "#PWR014") (unit 1) (value "+3V8") (footprint "")
     )
-    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/4c7ce4e7-5b54-49da-a2f7-790021f392b3"
-      (reference "#PWR015") (unit 1) (value "GND") (footprint "")
-    )
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/584d74aa-604e-42b9-86c7-ee732765d796"
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
@@ -240,8 +237,8 @@
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/b8c804aa-4765-44a3-b700-f1a2770a89d7"
       (reference "D4") (unit 1) (value "ESDA6V1BC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
-    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/280014fd-c8cd-45ff-a9b8-9dcdc4f26640"
-      (reference "J1") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical")
+    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/38b32d2c-3bbc-4b01-b977-4d2186f59172"
+      (reference "E1") (unit 1) (value "NN02-201") (footprint "NN02-201:XCVR_NN02-201")
     )
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/66f94e39-d6db-4b8e-81b2-9c59d4b519ce"
       (reference "J2") (unit 1) (value "SIM8060-6-1-14-00-A") (footprint "SIM8060-6-1-14-00-A:GCT_SIM8060-6-1-14-00-A")
@@ -291,12 +288,6 @@
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/5501733b-943b-4f96-831f-9f412dea448c"
       (reference "R12") (unit 1) (value "15k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/1068ae00-62f2-4f36-81f3-6584702f44ef/b4f78341-2eac-4896-8bf4-fae3afe02615"
-      (reference "R13") (unit 1) (value "DNF") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/1068ae00-62f2-4f36-81f3-6584702f44ef/75059281-5998-4b8a-ad9a-f085eae79919"
-      (reference "R14") (unit 1) (value "DNF") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/2811bfa1-0bfd-42d1-88d5-82e4e28f0f4f"
       (reference "R15") (unit 1) (value "DNF") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
@@ -304,34 +295,22 @@
       (reference "SW1") (unit 1) (value "KMR221GLFS") (footprint "KMR221GLFS:CK-KMR221GLFS-MFG")
     )
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/61bfe300-3502-411a-bef6-d1195d06859c"
-      (reference "TP1") (unit 1) (value "BOOT") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+      (reference "TP1") (unit 1) (value "BOOT") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
-    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/af8a1975-3114-4098-b16c-1fc3ed9cab74"
-      (reference "TP2") (unit 1) (value "RI") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/cd780fc6-3860-46d2-9795-a77767ed0a74"
-      (reference "TP3") (unit 1) (value "DCD") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/4bf187b6-904e-4e25-a413-aaee1cf947d5"
-      (reference "TP4") (unit 1) (value "CTS") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/d52543a5-fc7d-497f-8315-3d036a674072"
-      (reference "TP5") (unit 1) (value "RTS") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/691a8fd8-b00d-4d67-8481-e71f5f49a8e8"
-      (reference "TP6") (unit 1) (value "DTR") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/843b7bac-9da5-443b-bcef-e406e7bae009"
+      (reference "TP2") (unit 1) (value "3V8") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/8c55782a-286f-40fb-b62d-83039ec5f279"
-      (reference "TP7") (unit 1) (value "TXD") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+      (reference "TP7") (unit 1) (value "TXD") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/66fd1a77-9356-4e13-afbd-b74980950661"
-      (reference "TP8") (unit 1) (value "RXD") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+      (reference "TP8") (unit 1) (value "RXD") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/d46c1b4b-a224-43f0-ba1d-9744b7d483d5"
-      (reference "TP9") (unit 1) (value "DRX") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+      (reference "TP9") (unit 1) (value "DRX") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/6836637c-89ed-4a6f-8207-3d3d7cc85c56"
-      (reference "TP10") (unit 1) (value "DTX") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+      (reference "TP10") (unit 1) (value "DTX") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/004cd423-f713-43f4-824e-6985cfd732e7/a044e21d-edf5-4199-9c94-8aa40ba0be53"
       (reference "U1") (unit 1) (value "AP62301WU7") (footprint "Package_TO_SOT_SMD:TSOT-23-6")

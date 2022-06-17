@@ -2,4 +2,5 @@
   (lib (name "EG25G")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/EG25G/EG25G.kicad_sym")(options "")(descr ""))
   (lib (name "SIM8060-6-1-14-00-A")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/SIM8060-6-1-14-00-A/SIM8060-6-1-14-00-A.kicad_sym")(options "")(descr ""))
   (lib (name "KMR221GLFS")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/KMR221GLFS/KMR221GLFS.kicad_sym")(options "")(descr ""))
+  (lib (name "NN02-201")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/NN02-201/NN02-201.kicad_sym")(options "")(descr ""))
 )
