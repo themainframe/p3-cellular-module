@@ -3,4 +3,5 @@
   (lib (name "SIM8060-6-1-14-00-A")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/SIM8060-6-1-14-00-A")(options "")(descr ""))
   (lib (name "KMR221GLFS")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/KMR221GLFS")(options "")(descr ""))
   (lib (name "NN02-201")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/NN02-201")(options "")(descr ""))
+  (lib (name "art")(type "KiCad")(uri "${KIPRJMOD}/art")(options "")(descr ""))
 )

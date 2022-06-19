@@ -300,6 +300,9 @@
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/843b7bac-9da5-443b-bcef-e406e7bae009"
       (reference "TP2") (unit 1) (value "3V8") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
+    (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/d935a1cd-5257-48ad-ac58-fce18632b71e"
+      (reference "TP3") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
+    )
     (path "/0f3a958a-db06-4b04-9a0b-19dc72b9eb09/8c55782a-286f-40fb-b62d-83039ec5f279"
       (reference "TP7") (unit 1) (value "TXD") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
