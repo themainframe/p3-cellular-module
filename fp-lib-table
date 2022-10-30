@@ -4,4 +4,5 @@
   (lib (name "KMR221GLFS")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/KMR221GLFS")(options "")(descr ""))
   (lib (name "NN02-201")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/NN02-201")(options "")(descr ""))
   (lib (name "art")(type "KiCad")(uri "${KIPRJMOD}/art")(options "")(descr ""))
+  (lib (name "p3-cellular-module")(type "KiCad")(uri "/Users/damo/Projects/p3-cellular-module")(options "")(descr ""))
 )
