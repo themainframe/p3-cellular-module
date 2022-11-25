@@ -244,7 +244,7 @@
       (reference "J2") (unit 1) (value "SIM8060-6-1-14-00-A") (footprint "SIM8060-6-1-14-00-A:GCT_SIM8060-6-1-14-00-A")
     )
     (path "/1068ae00-62f2-4f36-81f3-6584702f44ef/fb5a2bb5-0385-4c53-b19b-23a7a5e579c2"
-      (reference "J4") (unit 1) (value "Pogo Pins") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical")
+      (reference "J4") (unit 1) (value "Pogo Pins") (footprint "art:PogoPins")
     )
     (path "/004cd423-f713-43f4-824e-6985cfd732e7/0f7f5736-73d3-48d8-a7db-d81cc6252c7d"
       (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_Coilcraft_XAL5030")
